@@ -22,7 +22,7 @@ Cat-loving and also loves Github. Please do work in hand coding together if our 
 
 
 ## SQL
-Skiils | MySQL | OracleSQL | SQLite
-:------------ | :-------------| :-------------| :-------------
-substr | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark:
+Skiils | MySQL | OracleSQL | SQLite | React.js | Vue.js
+:------------ | :-------------| :-------------| :-------------| :-------------| :-------------
+substr | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | <b>Ongoing</b> | <b>Ongoing</b>
 

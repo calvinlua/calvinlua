@@ -1,3 +1,6 @@
+## My Github Activity Performance
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinlua&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My Profile :smiley_cat:
 
 Welcome to my page! :blush:

@@ -1,5 +1,5 @@
 ## My Github Activity Performance
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinlua&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinlua&show_icons=true&theme=dracula&countprivate=true)
 
 ## My Profile :smiley_cat:
 

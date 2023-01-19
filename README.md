@@ -29,7 +29,7 @@ For work purposes:
 :white_check_mark: Vision with Python 
 
 ## Highlights
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=calvin&repo=
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=calvinlua&repo=
 AWS-MQTT-Server](https://github.com/anuraghazra/github-readme-stats)
 
 

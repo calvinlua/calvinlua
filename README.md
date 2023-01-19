@@ -12,9 +12,9 @@ Cat-loving and also loves Github. Please do work in hand coding with me together
 
 For work purposes,please contact me at:
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/kelvin-luawenzheng)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kelvin-luawenzheng)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png)GitHub](https://github.com/calvinlua/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/calvinlua/)
 
 ## Coding Skills 
 :white_check_mark: Python

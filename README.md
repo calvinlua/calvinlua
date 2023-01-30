@@ -38,8 +38,8 @@ For work purposes,please contact me at:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=calvinlua&repo=Reinforment-Learning-Javascript)](https://github.com/calvinlua/Reinforment-Learning-Javascript)
 
 
-## SQL
-Skiils | MySQL | OracleSQL | SQLite | React.js | Vue.js
+## Skills
+Skills | MySQL | OracleSQL | SQLite | React.js | Vue.js
 :------------ | :-------------| :-------------| :-------------| :-------------| :-------------
-substr | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | <b>Ongoing</b> | <b>Ongoing</b>
+ | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | <b>Ongoing</b> | <b>Ongoing</b>
 

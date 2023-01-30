@@ -41,5 +41,5 @@ For work purposes,please contact me at:
 ## Skills
 Skills | MySQL | OracleSQL | SQLite | React.js | Vue.js
 :------------ | :-------------| :-------------| :-------------| :-------------| :-------------
- | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | <b>Ongoing</b> | <b>Ongoing</b>
+ Yes/No | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | <b>Ongoing</b> | <b>Ongoing</b>
 

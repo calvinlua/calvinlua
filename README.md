@@ -42,4 +42,11 @@ For work purposes,please contact me at:
 Skills | MySQL | OracleSQL | SQLite | React.js | Vue.js
 :------------ | :-------------| :-------------| :-------------| :-------------| :-------------
  Yes/No | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | <b>Ongoing</b> | <b>Ongoing</b>
+ 
+### Special Thanks
 
+Happy 100 million developers to Github!
+
+![image](https://user-images.githubusercontent.com/86276701/216210930-4edb16ff-a5ba-4d9d-909a-623f124500b9.png)
+
+![image](https://user-images.githubusercontent.com/86276701/216211170-67056587-c776-4e60-bfd9-565956cfb6ab.png)

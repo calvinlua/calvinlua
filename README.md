@@ -1,9 +1,19 @@
-## My Github Activity Performance
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinlua&show_icons=true&theme=dracula&countprivate=true)
+## My Profile <p align="center"> <a href="https://www.linkedin.com/in/kelvin-luawenzheng/">
+  <img align="left" alt="Calvin Lua's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="mailto:wenzhenglua.sg@gmail.com">
+  <img align="left" alt="Calvin Lua's Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a>
 
-## My Profile :smiley_cat:
-
-Welcome to my page! :blush:
+![](https://visitor-badge.glitch.me/badge?page_id=calvinlua.calvinlua)
+  
+ <img width="150" src="https://gist.githubusercontent.com/moonheekim0118/bcbbb9c2fd8c477027617a67e0ec812f/raw/2c15614ff01ff7518bcd6da526939644c8324e11/octocat.gif">
+ <a href="mailto:wenzhenglua.sg@gmail.com">
+  <img width="80" src="https://cdn.dribbble.com/users/4874/screenshots/3074660/media/4e5156e8f7c5d81676345e6a9400e360.gif">
+ </a>
+  
+  
+  Welcome to my page! :blush:
 Hi. Nice to meet you! 
 
 I am Calvin. A fellow coding enthusiast in Python , Frontend , Machine Learning as well. 
@@ -12,19 +22,13 @@ Cat-loving and also loves Github. Please do work in hand coding with me together
 
 For work purposes,please contact me at:
 
-<a href="https://www.linkedin.com/in/kelvin-luawenzheng/">
-  <img align="left" alt="Calvin Lua's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="mailto:wenzhenglua.sg@gmail.com">
-  <img align="left" alt="Calvin Lua's Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=calvinlua.calvinlua)
+  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/kelvin-luawenzheng)
+  [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/calvinlua/)
+&nbsp; 
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kelvin-luawenzheng)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/calvinlua/)
+## My Github Activity Performance
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinlua&show_icons=true&theme=dracula&countprivate=true)
 
 ## Coding Skills 
 :white_check_mark: Python
@@ -43,7 +47,11 @@ For work purposes,please contact me at:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinlua&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
-## Highlights Repositories
+
+
+
+
+## Featured Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=calvinlua&repo=Reinforment-Learning-Javascript)](https://github.com/calvinlua/Reinforment-Learning-Javascript)
 
@@ -53,10 +61,20 @@ Skills | MySQL | OracleSQL | SQLite | React.js | Vue.js
 :------------ | :-------------| :-------------| :-------------| :-------------| :-------------
  Yes/No | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | <b>Ongoing</b> | <b>Ongoing</b>
  
-### Special Thanks
 
-Happy 100 million developers to Github!
+</details>
 
-![image](https://user-images.githubusercontent.com/86276701/216210930-4edb16ff-a5ba-4d9d-909a-623f124500b9.png)
+<details close align="center">
+<summary><samp>Special Thanks</samp></summary>
+<br>
+  Happy 100 million developers to Github!
 
-![image](https://user-images.githubusercontent.com/86276701/216211170-67056587-c776-4e60-bfd9-565956cfb6ab.png)
+<p align="center">
+  <img width="250" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif">
+</p>
+
+</details>
+
+
+<h4 align="center"><samp> Check out my repositories below</samp></h4>
+<h4 align="center"><samp>↯</samp></h4>

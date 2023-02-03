@@ -1,3 +1,6 @@
+## My Github Activity 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinlua&show_icons=true&theme=dracula&countprivate=true)
+
 ## My Profile <p align="center"> <a href="https://www.linkedin.com/in/kelvin-luawenzheng/">
   <img align="left" alt="Calvin Lua's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -20,9 +23,6 @@ Cat-loving and also loves Github. Please do work in hand coding with me together
  
 
 
-
-## My Github Activity Performance
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinlua&show_icons=true&theme=dracula&countprivate=true)
 
 ## Coding Skills 
 :white_check_mark: Python
@@ -58,10 +58,12 @@ Skills | MySQL | OracleSQL | SQLite | React.js | Vue.js
 
 </details>
 
+##
+
 <details close align="center">
 <summary><samp>Special Thanks</samp></summary>
 <br>
-  Happy 100 million developers to Github!
+  <p><b>Happy 100 million developers to Github!</b></p>
 
 <p align="center">
   <img width="250" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif">

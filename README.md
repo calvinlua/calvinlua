@@ -12,6 +12,16 @@ Cat-loving and also loves Github. Please do work in hand coding with me together
 
 For work purposes,please contact me at:
 
+<a href="https://www.linkedin.com/in/kelvin-luawenzheng/">
+  <img align="left" alt="Calvin Lua's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="mailto:wenzhenglua.sg@gmail.com">
+  <img align="left" alt="Calvin Lua's Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=calvinlua.calvinlua)
+
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kelvin-luawenzheng)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/calvinlua/)

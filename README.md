@@ -8,11 +8,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=calvinlua.calvinlua)
   
  <img width="150" src="https://gist.githubusercontent.com/moonheekim0118/bcbbb9c2fd8c477027617a67e0ec812f/raw/2c15614ff01ff7518bcd6da526939644c8324e11/octocat.gif">
- <a href="mailto:wenzhenglua.sg@gmail.com">
-  <img width="80" src="https://cdn.dribbble.com/users/4874/screenshots/3074660/media/4e5156e8f7c5d81676345e6a9400e360.gif">
- </a>
-  
-  
+   
   Welcome to my page! :blush:
 Hi. Nice to meet you! 
 
@@ -20,11 +16,9 @@ I am Calvin. A fellow coding enthusiast in Python , Frontend , Machine Learning 
 As a full fledge salarymen, I do coding for fun as my interest and also aim to grow my own profiles. 
 Cat-loving and also loves Github. Please do work in hand coding with me together if our interests meets!
 
-For work purposes,please contact me at:
+</details>
+ 
 
-  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/kelvin-luawenzheng)
-  [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/calvinlua/)
-&nbsp; 
 
 
 ## My Github Activity Performance
@@ -74,7 +68,16 @@ Skills | MySQL | OracleSQL | SQLite | React.js | Vue.js
 </p>
 
 </details>
+<details close align="center">
+<summary style="font-size:2px"y><samp>Contact Me</samp></summary>
+<br>
+ <p align="center">
+   
+  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/kelvin-luawenzheng)
+  [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/calvinlua/)&nbsp; 
+ </p>
 
+</details>
 
 <h4 align="center"><samp> Check out my repositories below</samp></h4>
 <h4 align="center"><samp>↯</samp></h4>

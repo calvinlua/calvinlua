@@ -1,7 +1,9 @@
 ## My Github Activity 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinlua&show_icons=true&theme=dracula&countprivate=true)
 
-## My Profile <p align="center"> <a href="https://www.linkedin.com/in/kelvin-luawenzheng/">
+## My Profile <p align="center"> 
+
+<a href="https://www.linkedin.com/in/kelvin-luawenzheng/">
   <img align="left" alt="Calvin Lua's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:wenzhenglua.sg@gmail.com">

@@ -9,8 +9,8 @@
 <a href="mailto:wenzhenglua.sg@gmail.com">
   <img align="left" alt="Calvin Lua's Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
+  ![](https://komarev.com/ghpvc/?username=calvinlua)
 
-![](https://visitor-badge.glitch.me/badge?page_id=calvinlua.calvinlua)
   
  <img width="150" src="https://gist.githubusercontent.com/moonheekim0118/bcbbb9c2fd8c477027617a67e0ec812f/raw/2c15614ff01ff7518bcd6da526939644c8324e11/octocat.gif">
    

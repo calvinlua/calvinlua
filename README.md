@@ -4,7 +4,7 @@
 ## My Profile <p align="center"> 
 
 <a href="https://www.linkedin.com/in/kelvin-luawenzheng/">
-  <img align="left" alt="Calvin Lua's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Calvin Lua's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
 </a>
 <a href="mailto:wenzhenglua.sg@gmail.com">
   <img align="left" alt="Calvin Lua's Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />

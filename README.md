@@ -1,5 +1,3 @@
-## My Github Activity 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinlua&show_icons=true&theme=dracula&countprivate=true)
 
 ## My Profile <p align="center"> 
 
@@ -23,8 +21,9 @@ Cat-loving and also loves Github. Please do work in hand coding with me together
 
 </details>
  
-
-
+## My Github Activity 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinlua&show_icons=true&theme=dracula&countprivate=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=%20calvinlua&mode=weekly)](https://git.io/streak-stats)
 
 ## Coding Skills 
 :white_check_mark: Python

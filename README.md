@@ -26,15 +26,15 @@ Cat-loving and also loves Github. Please do work in hand coding with me together
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=%20calvinlua&mode=weekly)](https://git.io/streak-stats)
 
 ## Coding Skills 
-:white_check_mark: Python
+:white_check_mark: Python ,Python OPENCV , Python Pandas and Python Keras
 
 :white_check_mark: Machine Learning
 
-:white_check_mark: Frontend - React.js , Vue.js
+:white_check_mark: Frontend - React.js , Vue.js 
 
-:white_check_mark: PLC - structure text and ladder
+:white_check_mark: Backend - Node.js, Java Springboot
 
-:white_check_mark: PLC with Python 
+:white_check_mark: Structure text(STL/SCL) and ladder for Siemens, Beckhoff , Omron and Mitsubishi PLCs  
 
 :white_check_mark: Vision with Python 
 

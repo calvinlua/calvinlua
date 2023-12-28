@@ -8,10 +8,19 @@
   <img align="left" alt="Calvin Lua's Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 
-  ![](https://komarev.com/ghpvc/?username=calvinlua&color=blueviolet)
-  
- <img width="150" src="https://gist.githubusercontent.com/moonheekim0118/bcbbb9c2fd8c477027617a67e0ec812f/raw/2c15614ff01ff7518bcd6da526939644c8324e11/octocat.gif">
-   
+<a href="https://calvinlua.vercel.app">
+    <img align="left" alt="Calvin Lua's Porfolio Website" width="22px" src="https://github.com/calvinlua/calvinlua/assets/86276701/a9f4e9d8-9c9f-4fe2-a53a-b93e776cdaa1" />
+</a>
+
+<br/>
+<br/>
+<br/>
+
+<a>
+ <img  width="150" src="https://gist.githubusercontent.com/moonheekim0118/bcbbb9c2fd8c477027617a67e0ec812f/raw/2c15614ff01ff7518bcd6da526939644c8324e11/octocat.gif">
+</a>
+
+<br/>
   Welcome to my page! :blush:
 Hi. Nice to meet you! 
 
@@ -54,7 +63,7 @@ Cat-loving and also loves Github. Please do work in hand coding with me together
 ## Skills
 Skills | MySQL | OracleSQL | SQLite | React.js | Vue.js
 :------------ | :-------------| :-------------| :-------------| :-------------| :-------------
- Yes/No | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | <b>Ongoing</b> | <b>Ongoing</b>
+ Yes/No | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
  
 
 </details>

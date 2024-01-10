@@ -80,16 +80,7 @@ Skills | MySQL | OracleSQL | SQLite | React.js | Vue.js
 </p>
 
 </details>
-<details close align="center">
-<summary style="font-size:2px"y><samp>Contact Me</samp></summary>
-<br>
- <p align="center">
-   
-  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/kelvin-luawenzheng)
-  [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/calvinlua/)&nbsp; 
- </p>
 
-</details>
 
 <h4 align="center"><samp> Check out my repositories below</samp></h4>
 <h4 align="center"><samp>↯</samp></h4>

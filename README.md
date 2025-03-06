@@ -24,7 +24,7 @@
   Welcome to my page! :blush:
 Hi. Nice to meet you! 
 
-I am Calvin. A fellow coding enthusiast in Python , Frontend ,Backend , Machine Learning as well. 
+I am Calvin. A fellow Full Stack Developer. I love to code fun projects. 
 As a full fledge salarymen, I do coding for fun as my interest and also aim to grow my own profiles. 
 Cat-loving and also loves Github. Please do work in hand coding with me together if our interests meets!
 
@@ -35,30 +35,17 @@ Cat-loving and also loves Github. Please do work in hand coding with me together
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=%20calvinlua&mode=weekly)](https://git.io/streak-stats)
 
 ## Coding Skills 
-:white_check_mark: Python ,Python OPENCV , Python Pandas and Python Keras
 
-:white_check_mark: Machine Learning
+- Frontend : React.js , Vue.js
 
-:white_check_mark: Frontend - React.js , Vue.js 
+- Frontend (Mobile) : React Native Expo
 
-:white_check_mark: Backend - Node.js, Java Springboot
+- Backend : Node.js, Java Springboot , Python
 
-:white_check_mark: Structure text(STL/SCL) and ladder for Siemens, Beckhoff , Omron and Mitsubishi PLCs  
+- Machine Learning , Keras , OpenCV and Pandas
 
-:white_check_mark: Vision with Python 
-
-## Top Language Used
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinlua&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-## Featured Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=calvinlua&repo=Reinforment-Learning-Javascript)](https://github.com/calvinlua/Reinforment-Learning-Javascript)
-
+- Rare but had : Structure text(STL/SCL) and ladder for Siemens, Beckhoff , Omron and Mitsubishi PLCs  
+ 
 
 ## Skills
 Skills | MySQL | OracleSQL | SQLite | React.js | Vue.js

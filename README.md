@@ -55,6 +55,7 @@ Cat-loving and also loves Github. Please do work in hand coding with me together
 [![D3js](https://img.shields.io/badge/D3.js-ffffff?style=for-the-badge&logo=d3&logoColor=F9A03C)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Socket,IO](https://img.shields.io/badge/Socket.IO-ffffff?style=for-the-badge&logo=socketdotio&logoColor=010101)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![StyledComponents](https://img.shields.io/badge/Styled_Component-ffffff?style=for-the-badge&logo=styledcomponents&logoColor=DB7093)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
 - **Backend** :
@@ -95,6 +96,8 @@ Cat-loving and also loves Github. Please do work in hand coding with me together
 - **OS** :
 
 [![Shell Script](https://img.shields.io/badge/Unix_Shell_Script-%23121011.svg?style=for-the-badge&logo=linux&logoColor=white)](#)
+
+
 <!--
 <table>
   <tr>
